@@ -20,3 +20,4 @@ Contents
 
    usage
    api
+   cv32a6_mmu
